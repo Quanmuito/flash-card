@@ -1,4 +1,5 @@
 import React, { ReactNode } from 'react';
+import { Link, useLocation } from 'react-router-dom';
 import style from './style.module.css';
 
 type NavPageItemPropsType = {
@@ -7,9 +8,12 @@ type NavPageItemPropsType = {
     toggleMenu: () => void;
 }
 export function NavPageItem({ route, text, toggleMenu }: NavPageItemPropsType) {
+    const location = useLocation();
+    const isActive = location.pathname === route;
+
     return (
-        <li className={ `${style.menuNavPageItem} ${style.menuNavPageItemActive}` }>
-            <a href={ route } onClick={ toggleMenu }>{ text }</a>
+        <li className={ `${style.menuNavPageItem} ${isActive && style.menuNavPageItemActive}` }>
+            <Link to={ route } onClick={ toggleMenu }>{ text }</Link>
         </li>
     );
 }

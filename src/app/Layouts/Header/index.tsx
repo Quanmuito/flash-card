@@ -52,7 +52,7 @@ export default function Header() {
     return (
         <header>
             <div className={ style.headerLogo }>
-                <img src={ `${S3_DOMAIN}/Flag_of_Finland.png` } alt="logo" />
+                <img src={ `${S3_DOMAIN}/Flag_of_Finland.png` } alt={ t('logo') } />
             </div>
 
             <div className={ style.headerNavigation }>
@@ -60,9 +60,8 @@ export default function Header() {
                 <nav className={ `${style.nav} ${menuOpen && style.navOpen}` }>
                     <div className={ `${style.menuNav} ${menuOpen && style.menuNavOpen}` }>
                         <MenuNavPages>
-                            <NavPageItem route="/" text={ t('home') } toggleMenu={ toggleMenu } />
+                            <NavPageItem route="/home" text={ t('home') } toggleMenu={ toggleMenu } />
                             <NavPageItem route="/practice" text={ t('practice') } toggleMenu={ toggleMenu } />
-                            <NavPageItem route="/dictionary" text={ t('dictionary') } toggleMenu={ toggleMenu } />
                         </MenuNavPages>
 
                         <MenuNavActions>

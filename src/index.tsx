@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { BrowserRouter } from 'react-router-dom';
 import { initI18n } from 'libs/i18n';
 import { AppProvider } from 'contexts/AppContext';
 import App from 'app';
@@ -12,8 +13,10 @@ const root = ReactDOM.createRoot(
 );
 root.render(
     // <React.StrictMode>
-    <AppProvider>
-        <App />
-    </AppProvider>
+    <BrowserRouter>
+        <AppProvider>
+            <App />
+        </AppProvider>
+    </BrowserRouter>
     // </React.StrictMode>
 );
