@@ -1,0 +1,34 @@
+{
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": null
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": null
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": null
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": null
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "editor.rulers": [
+        {
+            "column": 80,
+            "color": "#FFFF00"
+        },
+        {
+            "column": 120,
+            "color": "#FF0000"
+        }
+    ],
+}

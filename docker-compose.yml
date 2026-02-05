@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  flash-card-prod:
+    container_name: flash-card-container
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${NGINX_PORT:-8080}:80"
+      - "${NGINX_PORT_SECURE:-8443}:443"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:80/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    networks:
+      - flash-card-network
+
+networks:
+  flash-card-network:
+    driver: bridge
