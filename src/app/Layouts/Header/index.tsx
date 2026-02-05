@@ -60,7 +60,7 @@ export default function Header() {
                 <nav className={ `${style.nav} ${menuOpen && style.navOpen}` }>
                     <div className={ `${style.menuNav} ${menuOpen && style.menuNavOpen}` }>
                         <MenuNavPages>
-                            <NavPageItem route="/home" text={ t('home') } toggleMenu={ toggleMenu } />
+                            <NavPageItem route="/" text={ t('home') } toggleMenu={ toggleMenu } />
                             <NavPageItem route="/practice" text={ t('practice') } toggleMenu={ toggleMenu } />
                         </MenuNavPages>
 
