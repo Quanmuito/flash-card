@@ -23,52 +23,14 @@ The application provides an intuitive interface where users can practice vocabul
 - **Random Word Sets**: Generate new sets of words for varied practice sessions
 - **Navigation Controls**: Easy navigation through words with Previous/Next buttons
 
-## Tech Stack
-
-- **Frontend Framework**: React 18.2.0
-- **Language**: TypeScript 5.7.0
-- **Routing**: React Router DOM 7.13.0
-- **Internationalization**: i18next with react-i18next
-- **Form Handling**: React Hook Form
-- **Build Tool**: React Scripts 5.0.1
-- **Containerization**: Docker with Nginx
-- **Deployment**: GitHub Pages
 
 ## Getting Started
 
-For detailed installation instructions, see [INSTALLATION.md](docs/INSTALLATION.md).
+The easiest way to start using Flash Card is to visit the live demo. No installation required!
 
-### Quick Start
+**Try it now:** [https://quanmuito.github.io/flash-card/](https://quanmuito.github.io/flash-card/)
 
-1. Clone the repository
-2. Install dependencies: `yarn install` or `npm install`
-3. Start the development server: `yarn start` or `npm start`
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-### Available Scripts
-
-- `yarn start` - Start the development server
-- `yarn build` - Build the app for production
-- `yarn test` - Run tests with coverage
-- `yarn deploy` - Deploy to GitHub Pages
-
-## Project Structure
-
-```
-flash-card/
-├── src/
-│   ├── app/              # Main application components
-│   │   ├── pages/        # Home and Practice pages
-│   │   └── Layouts/      # Header and navigation
-│   ├── components/       # Reusable UI components
-│   ├── contexts/         # React contexts (Theme, Locale, etc.)
-│   ├── data/            # Finnish vocabulary data
-│   ├── libs/            # Utilities and i18n configuration
-│   └── styles/          # Global styles
-├── public/              # Static assets
-├── docker/              # Docker configuration
-└── docs/               # Documentation
-```
+If you're a developer and want to run the application locally, see the [Installation Guide](docs/INSTALLATION.md) for technical setup instructions.
 
 ## How to Use
 
@@ -80,13 +42,22 @@ flash-card/
 6. Click "New Set" to start a new set of words
 7. Repeat daily for best results
 
+### Thinking Process When Building the App
+
+#### Ideas
+
+- Create a flash card app that helps learn Finnish vocabulary
+- Use React to build the app
+- Make it a static app that can be deployed to GitHub Pages
+
+#### Problems and Solutions
+
+- Instruct AI to work with frontend design which requires visualization
+- Solution: Instruct AI detailedly, step by step to target the specific part that needs improvement
+
 ## Feedback
 
 For feedback, suggestions, or feature requests, please contact: **flashcard2026@gmail.com**
-
-## Live Demo
-
-Access the live application at: [https://quanmuito.github.io/flash-card/](https://quanmuito.github.io/flash-card/)
 
 ## License
 

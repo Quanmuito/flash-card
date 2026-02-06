@@ -1,9 +1,37 @@
-# flash-card Installation
+# Flash Card Installation Guide
 
-#### Techstack:
-React, TypeScript, Docker
+This guide contains all technical information for developers who want to set up, build, and deploy the Flash Card application.
 
-### How to setup project locally
+## Tech Stack
+
+- **Frontend Framework**: React 18.2.0
+- **Language**: TypeScript 5.7.0
+- **Routing**: React Router DOM 7.13.0
+- **Internationalization**: i18next with react-i18next
+- **Form Handling**: React Hook Form
+- **Build Tool**: React Scripts 5.0.1
+- **Containerization**: Docker with Nginx
+- **Deployment**: GitHub Pages
+
+## Project Structure
+
+```
+flash-card/
+├── src/
+│   ├── app/              # Main application components
+│   │   ├── pages/        # Home and Practice pages
+│   │   └── Layouts/      # Header and navigation
+│   ├── components/       # Reusable UI components
+│   ├── contexts/         # React contexts (Theme, Locale, etc.)
+│   ├── data/            # Finnish vocabulary data
+│   ├── libs/            # Utilities and i18n configuration
+│   └── styles/          # Global styles
+├── public/              # Static assets
+├── docker/              # Docker configuration
+└── docs/               # Documentation
+```
+
+## How to Setup Project Locally
 Clone this repository to your local machine.
 
 ##### Run with Node.js
@@ -56,3 +84,10 @@ Clone this repository to your local machine.
     ```
 
 - Access at [Flash Card](https://quanmuito.github.io/flash-card/)
+
+## Available Scripts
+
+- `yarn start` or `npm start` - Start the development server
+- `yarn build` or `npm run build` - Build the app for production
+- `yarn test` or `npm test` - Run tests with coverage
+- `yarn deploy` or `npm run deploy` - Deploy to GitHub Pages
