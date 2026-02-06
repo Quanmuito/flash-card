@@ -13,17 +13,17 @@ export default function HomePage() {
 
             <div className={ style.detailContainer }>
                 <h3>{ t('slogan') }</h3>
-                <br />
-                <br />
+            </div>
 
+            <div className={ style.detailContainer }>
                 <h2>{ t('about') }</h2>
                 <br />
                 <p>{ t('aboutDescription') }</p>
                 <p>{ t('aboutDescription2') }</p>
                 <p>{ t('aboutDescription3') }<strong>{ email }</strong></p>
-                <br />
-                <br />
+            </div>
 
+            <div className={ style.detailContainer }>
                 <h2>{ t('howToUse') }</h2>
                 <br />
                 <ol className={ style.stepsList }>
@@ -34,9 +34,9 @@ export default function HomePage() {
                     <li>{ t('step5') }</li>
                     <li>{ t('step6') }</li>
                 </ol>
+            </div>
 
-                <br />
-                <br />
+            <div className={ style.detailContainer }>
                 <Link to="/practice">{ t('startPractice') }</Link>
             </div>
         </div>

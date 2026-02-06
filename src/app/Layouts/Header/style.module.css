@@ -159,7 +159,14 @@ header {
 
 @media screen and (min-width: 1900px) {
     header {
+        height: 10vh;
         grid-template-columns: auto auto 1fr auto;
         grid-template-areas: "logo navigation . buttons";
+    }
+
+    .headerLogo {
+        img {
+            height: 7vh;
+        }
     }
 }
