@@ -2,7 +2,7 @@
     {
         "sana": "nukkua",
         "tarkoittaa": "to sleep",
-        "vartalo": "nukku-",
+        "vartalo": "nuku- / nukku-",
         "imperfekti": {
             "positiivinen": "nukkui",
             "negatiivinen": "ei nukkunut"
@@ -15,7 +15,7 @@
     {
         "sana": "ottaa",
         "tarkoittaa": "to take",
-        "vartalo": "otta-",
+        "vartalo": "ota- / otta-",
         "imperfekti": {
             "positiivinen": "otti",
             "negatiivinen": "ei ottanut"
@@ -28,7 +28,7 @@
     {
         "sana": "lukea",
         "tarkoittaa": "to read",
-        "vartalo": "lue-",
+        "vartalo": "lue- / luke-",
         "imperfekti": {
             "positiivinen": "luki",
             "negatiivinen": "ei lukenut"
@@ -132,7 +132,7 @@
     {
         "sana": "pelätä",
         "tarkoittaa": "to fear",
-        "vartalo": "pelkää-",
+        "vartalo": "pelää-",
         "imperfekti": {
             "positiivinen": "pelkäsi",
             "negatiivinen": "ei pelännyt"
@@ -197,7 +197,7 @@
     {
         "sana": "seisottaa",
         "tarkoittaa": "to make stand",
-        "vartalo": "seisota-",
+        "vartalo": "seisota- / seisotta-",
         "imperfekti": {
             "positiivinen": "seisotti",
             "negatiivinen": "ei seisonnut"
@@ -223,7 +223,7 @@
     {
         "sana": "maattaa",
         "tarkoittaa": "to lay",
-        "vartalo": "maata-",
+        "vartalo": "maata- / maatta-",
         "imperfekti": {
             "positiivinen": "maatti",
             "negatiivinen": "ei maattanut"
@@ -236,7 +236,7 @@
     {
         "sana": "asettaa",
         "tarkoittaa": "to place",
-        "vartalo": "aseta-",
+        "vartalo": "aseta- / asetta-",
         "imperfekti": {
             "positiivinen": "asetti",
             "negatiivinen": "ei asettanut"
@@ -249,7 +249,7 @@
     {
         "sana": "laittaa",
         "tarkoittaa": "to put",
-        "vartalo": "laita-",
+        "vartalo": "laita- / laitta-",
         "imperfekti": {
             "positiivinen": "laski",
             "negatiivinen": "ei laittanut"
@@ -288,7 +288,7 @@
     {
         "sana": "istuttaa",
         "tarkoittaa": "to plant",
-        "vartalo": "istuta-",
+        "vartalo": "istuta- / istutta-",
         "imperfekti": {
             "positiivinen": "istutti",
             "negatiivinen": "ei istuttanut"
@@ -314,7 +314,7 @@
     {
         "sana": "hypätä",
         "tarkoittaa": "to jump",
-        "vartalo": "hyppää-",
+        "vartalo": "hypää-",
         "imperfekti": {
             "positiivinen": "hyppäsi",
             "negatiivinen": "ei hypännyt"
@@ -327,7 +327,7 @@
     {
         "sana": "hyppyyttää",
         "tarkoittaa": "to make jump",
-        "vartalo": "hyppyyttä-",
+        "vartalo": "hyppyyttä- / hyppyyttä-",
         "imperfekti": {
             "positiivinen": "hyppyytti",
             "negatiivinen": "ei hyppyyttänyt"
@@ -353,7 +353,7 @@
     {
         "sana": "uittaa",
         "tarkoittaa": "to float",
-        "vartalo": "uita-",
+        "vartalo": "uita- / uitta-",
         "imperfekti": {
             "positiivinen": "uitti",
             "negatiivinen": "ei uittanut"
@@ -366,7 +366,7 @@
     {
         "sana": "nukuttaa",
         "tarkoittaa": "to make sleep",
-        "vartalo": "nukutta-",
+        "vartalo": "nukuta- / nukutta-",
         "imperfekti": {
             "positiivinen": "nukutti",
             "negatiivinen": "ei nukuttanut"
@@ -405,20 +405,20 @@
     {
         "sana": "tehdä",
         "tarkoittaa": "to do",
-        "vartalo": "tee-",
+        "vartalo": "tee- / teke-",
         "imperfekti": {
             "positiivinen": "teki",
             "negatiivinen": "ei tehnyt"
         },
         "passiivi": {
-            "positiivinen": "teetaan",
-            "negatiivinen": "ei teeta"
+            "positiivinen": "tehdään",
+            "negatiivinen": "ei tehdä"
         }
     },
     {
         "sana": "kirjoittaa",
         "tarkoittaa": "to write",
-        "vartalo": "kirjoita-",
+        "vartalo": "kirjoita- / kirjoitta-",
         "imperfekti": {
             "positiivinen": "kirjoitti",
             "negatiivinen": "ei kirjoittanut"
@@ -574,7 +574,7 @@
     {
         "sana": "itkettää",
         "tarkoittaa": "to make cry",
-        "vartalo": "itkettä-",
+        "vartalo": "itkettä- / itkettä-",
         "imperfekti": {
             "positiivinen": "itketti",
             "negatiivinen": "ei itkettänyt"
@@ -626,7 +626,7 @@
     {
         "sana": "soittaa",
         "tarkoittaa": "to play/call",
-        "vartalo": "soita-",
+        "vartalo": "soita- / soitta-",
         "imperfekti": {
             "positiivinen": "soitti",
             "negatiivinen": "ei soittanut"
@@ -704,7 +704,7 @@
     {
         "sana": "sammuttaa",
         "tarkoittaa": "to put out",
-        "vartalo": "sammuta-",
+        "vartalo": "sammuta- / sammutta-",
         "imperfekti": {
             "positiivinen": "sammutti",
             "negatiivinen": "ei sammuttanut"
@@ -730,7 +730,7 @@
     {
         "sana": "naurattaa",
         "tarkoittaa": "to make laugh",
-        "vartalo": "nauratta-",
+        "vartalo": "naurata- / nauratta-",
         "imperfekti": {
             "positiivinen": "nauratti",
             "negatiivinen": "ei naurattanut"
@@ -756,7 +756,7 @@
     {
         "sana": "hymyilyttää",
         "tarkoittaa": "to make smile",
-        "vartalo": "hymyilyttä-",
+        "vartalo": "hymyilyttä- / hymyilyttä-",
         "imperfekti": {
             "positiivinen": "hymyilytti",
             "negatiivinen": "ei hymyilyttänyt"
@@ -782,7 +782,7 @@
     {
         "sana": "laulattaa",
         "tarkoittaa": "to make sing",
-        "vartalo": "laulatta-",
+        "vartalo": "laulata- / laulatta-",
         "imperfekti": {
             "positiivinen": "laulatti",
             "negatiivinen": "ei laulattanut"
@@ -873,7 +873,7 @@
     {
         "sana": "saada",
         "tarkoittaa": "to get",
-        "vartalo": "saa-",
+        "vartalo": "sa-",
         "imperfekti": {
             "positiivinen": "sai",
             "negatiivinen": "ei saanut"
@@ -886,7 +886,7 @@
     {
         "sana": "vastaanottaa",
         "tarkoittaa": "to receive",
-        "vartalo": "vastaanota-",
+        "vartalo": "vastaanota- / vastaanotta-",
         "imperfekti": {
             "positiivinen": "vastaanotti",
             "negatiivinen": "ei vastaanottanut"
@@ -1029,7 +1029,7 @@
     {
         "sana": "luottaa",
         "tarkoittaa": "to trust",
-        "vartalo": "luota-",
+        "vartalo": "luota- / luotta-",
         "imperfekti": {
             "positiivinen": "luotti",
             "negatiivinen": "ei luottanut"
@@ -1055,7 +1055,7 @@
     {
         "sana": "ymmärtää",
         "tarkoittaa": "to understand",
-        "vartalo": "ymmärrä-",
+        "vartalo": "ymmärrä- / ymmärtä-",
         "imperfekti": {
             "positiivinen": "ymmärsi",
             "negatiivinen": "ei ymmärtänyt"
@@ -1068,14 +1068,14 @@
     {
         "sana": "maksaa",
         "tarkoittaa": "to pay",
-        "vartalo": "makaa-",
+        "vartalo": "maksa- / maksa-",
         "imperfekti": {
             "positiivinen": "maksoi",
             "negatiivinen": "ei maksanut"
         },
         "passiivi": {
-            "positiivinen": "makataan",
-            "negatiivinen": "ei makata"
+            "positiivinen": "maksataan",
+            "negatiivinen": "ei maksata"
         }
     },
     {
@@ -1120,7 +1120,7 @@
     {
         "sana": "levätä",
         "tarkoittaa": "to rest",
-        "vartalo": "lepää-",
+        "vartalo": "levää-",
         "imperfekti": {
             "positiivinen": "leväsi",
             "negatiivinen": "ei lepännyt"
@@ -1302,7 +1302,7 @@
     {
         "sana": "kuivata",
         "tarkoittaa": "to dry",
-        "vartalo": "kuivata-",
+        "vartalo": "kuivaa-",
         "imperfekti": {
             "positiivinen": "kuivasi",
             "negatiivinen": "ei kuivannut"
@@ -1367,274 +1367,274 @@
     {
         "sana": "kypsyä",
         "tarkoittaa": "to ripen",
-        "vartalo": "kypsyu-",
+        "vartalo": "kypsy-",
         "imperfekti": {
-            "positiivinen": "kypsyui",
-            "negatiivinen": "ei kypsyunyt"
+            "positiivinen": "kypsyi",
+            "negatiivinen": "ei kypsynyt"
         },
         "passiivi": {
-            "positiivinen": "kypsyutatään",
-            "negatiivinen": "ei kypsyutatä"
+            "positiivinen": "kypsytään",
+            "negatiivinen": "ei kypsytä"
         }
     },
     {
         "sana": "kuoria",
         "tarkoittaa": "to peel",
-        "vartalo": "kuorii-",
+        "vartalo": "kuori-",
         "imperfekti": {
-            "positiivinen": "kuoriii",
-            "negatiivinen": "ei kuoriinut"
+            "positiivinen": "kuori",
+            "negatiivinen": "ei kuorinut"
         },
         "passiivi": {
-            "positiivinen": "kuoriitataan",
-            "negatiivinen": "ei kuoriitata"
+            "positiivinen": "kuoritaan",
+            "negatiivinen": "ei kuorita"
         }
     },
     {
         "sana": "kuoriutua",
         "tarkoittaa": "to peel (intransitive)",
-        "vartalo": "kuoriutuu-",
+        "vartalo": "kuoriutu-",
         "imperfekti": {
-            "positiivinen": "kuoriutuui",
-            "negatiivinen": "ei kuoriutuunut"
+            "positiivinen": "kuoriutui",
+            "negatiivinen": "ei kuoriutunut"
         },
         "passiivi": {
-            "positiivinen": "kuoriutuutataan",
-            "negatiivinen": "ei kuoriutuutata"
+            "positiivinen": "kuoriututaan",
+            "negatiivinen": "ei kuoriututa"
         }
     },
     {
         "sana": "leikata",
         "tarkoittaa": "to cut",
-        "vartalo": "leikat-",
+        "vartalo": "leikkaa-",
         "imperfekti": {
-            "positiivinen": "leikati",
-            "negatiivinen": "ei leikatnut"
+            "positiivinen": "leikkasi",
+            "negatiivinen": "ei leikannut"
         },
         "passiivi": {
-            "positiivinen": "leikattataan",
-            "negatiivinen": "ei leikattata"
+            "positiivinen": "leikataan",
+            "negatiivinen": "ei leikata"
         }
     },
     {
         "sana": "leikautua",
         "tarkoittaa": "to be cut",
-        "vartalo": "leikautuu-",
+        "vartalo": "leikautu-",
         "imperfekti": {
-            "positiivinen": "leikautuui",
-            "negatiivinen": "ei leikautuunut"
+            "positiivinen": "leikautui",
+            "negatiivinen": "ei leikautunut"
         },
         "passiivi": {
-            "positiivinen": "leikautuutataan",
-            "negatiivinen": "ei leikautuutata"
+            "positiivinen": "leikaututaan",
+            "negatiivinen": "ei leikaututa"
         }
     },
     {
         "sana": "pilkkoa",
         "tarkoittaa": "to chop",
-        "vartalo": "pilkkoo-",
+        "vartalo": "pilkko-",
         "imperfekti": {
-            "positiivinen": "pilkkooi",
-            "negatiivinen": "ei pilkkoonut"
+            "positiivinen": "pilkkoi",
+            "negatiivinen": "ei pilkonnut"
         },
         "passiivi": {
-            "positiivinen": "pilkkootataan",
-            "negatiivinen": "ei pilkkootata"
+            "positiivinen": "pilkotaan",
+            "negatiivinen": "ei pilkota"
         }
     },
     {
         "sana": "pilkkoutua",
         "tarkoittaa": "to be chopped",
-        "vartalo": "pilkkoutuu-",
+        "vartalo": "pilkkoutu-",
         "imperfekti": {
-            "positiivinen": "pilkkoutuui",
-            "negatiivinen": "ei pilkkoutuunut"
+            "positiivinen": "pilkkoutui",
+            "negatiivinen": "ei pilkkoutunut"
         },
         "passiivi": {
-            "positiivinen": "pilkkoutuutataan",
-            "negatiivinen": "ei pilkkoutuutata"
+            "positiivinen": "pilkkoututaan",
+            "negatiivinen": "ei pilkkoututa"
         }
     },
     {
         "sana": "paistaa",
         "tarkoittaa": "to fry",
-        "vartalo": "paistta-",
+        "vartalo": "paista-",
         "imperfekti": {
-            "positiivinen": "paisttsi",
-            "negatiivinen": "ei paisttanut"
+            "positiivinen": "paisti",
+            "negatiivinen": "ei paistanut"
         },
         "passiivi": {
-            "positiivinen": "paisttataan",
-            "negatiivinen": "ei paisttata"
+            "positiivinen": "paistetaan",
+            "negatiivinen": "ei paisteta"
         }
     },
     {
         "sana": "paistua",
         "tarkoittaa": "to be fried",
-        "vartalo": "paistuu-",
+        "vartalo": "paistu-",
         "imperfekti": {
-            "positiivinen": "paistuui",
-            "negatiivinen": "ei paistuunut"
+            "positiivinen": "paistui",
+            "negatiivinen": "ei paistunut"
         },
         "passiivi": {
-            "positiivinen": "paistuutataan",
-            "negatiivinen": "ei paistuutata"
+            "positiivinen": "paistutaan",
+            "negatiivinen": "ei paistuta"
         }
     },
     {
         "sana": "keittää",
         "tarkoittaa": "to boil",
-        "vartalo": "keittta-",
+        "vartalo": "keitä- / keittä-",
         "imperfekti": {
-            "positiivinen": "keitttsi",
-            "negatiivinen": "ei keitttanut"
+            "positiivinen": "keitti",
+            "negatiivinen": "ei keittänyt"
         },
         "passiivi": {
-            "positiivinen": "keitttataan",
-            "negatiivinen": "ei keitttata"
+            "positiivinen": "keitetään",
+            "negatiivinen": "ei keitetä"
         }
     },
     {
         "sana": "kiehua",
         "tarkoittaa": "to boil (intransitive)",
-        "vartalo": "kiehuu-",
+        "vartalo": "kiehu-",
         "imperfekti": {
-            "positiivinen": "kiehuui",
-            "negatiivinen": "ei kiehuunut"
+            "positiivinen": "kiehui",
+            "negatiivinen": "ei kiehunut"
         },
         "passiivi": {
-            "positiivinen": "kiehuutataan",
-            "negatiivinen": "ei kiehuutata"
+            "positiivinen": "kiehutaan",
+            "negatiivinen": "ei kiehuta"
         }
     },
     {
         "sana": "höyrystää",
         "tarkoittaa": "to vaporize",
-        "vartalo": "höyrystta-",
+        "vartalo": "höyrystä-",
         "imperfekti": {
-            "positiivinen": "höyrysttsi",
-            "negatiivinen": "ei höyrysttanyt"
+            "positiivinen": "höyrysti",
+            "negatiivinen": "ei höyrystänyt"
         },
         "passiivi": {
-            "positiivinen": "höyrysttatään",
-            "negatiivinen": "ei höyrysttatä"
+            "positiivinen": "höyrystetään",
+            "negatiivinen": "ei höyrystetä"
         }
     },
     {
         "sana": "höyrystyä",
         "tarkoittaa": "to vaporize (intransitive)",
-        "vartalo": "höyrystyu-",
+        "vartalo": "höyrysty-",
         "imperfekti": {
-            "positiivinen": "höyrystyui",
-            "negatiivinen": "ei höyrystyunyt"
+            "positiivinen": "höyrystyi",
+            "negatiivinen": "ei höyrystynyt"
         },
         "passiivi": {
-            "positiivinen": "höyrystyutatään",
-            "negatiivinen": "ei höyrystyutatä"
+            "positiivinen": "höyrystytään",
+            "negatiivinen": "ei höyrystytä"
         }
     },
     {
         "sana": "sekoittaa",
         "tarkoittaa": "to mix",
-        "vartalo": "sekoittta-",
+        "vartalo": "sekoita- / sekoitta-",
         "imperfekti": {
-            "positiivinen": "sekoitttsi",
-            "negatiivinen": "ei sekoitttanut"
+            "positiivinen": "sekoitti",
+            "negatiivinen": "ei sekoittanut"
         },
         "passiivi": {
-            "positiivinen": "sekoitttataan",
-            "negatiivinen": "ei sekoitttata"
+            "positiivinen": "sekoitetaan",
+            "negatiivinen": "ei sekoiteta"
         }
     },
     {
         "sana": "sekoittua",
         "tarkoittaa": "to be mixed",
-        "vartalo": "sekoittuu-",
+        "vartalo": "sekoittu-",
         "imperfekti": {
-            "positiivinen": "sekoittuui",
-            "negatiivinen": "ei sekoittuunut"
+            "positiivinen": "sekoittui",
+            "negatiivinen": "ei sekoittunut"
         },
         "passiivi": {
-            "positiivinen": "sekoittuutataan",
-            "negatiivinen": "ei sekoittuutata"
+            "positiivinen": "sekoittutaan",
+            "negatiivinen": "ei sekoittuta"
         }
     },
     {
         "sana": "jauhaa",
         "tarkoittaa": "to grind",
-        "vartalo": "jauhaa-",
+        "vartalo": "jauha-",
         "imperfekti": {
-            "positiivinen": "jauhai",
-            "negatiivinen": "ei jauhaanut"
+            "positiivinen": "jauhoi",
+            "negatiivinen": "ei jauhanut"
         },
         "passiivi": {
-            "positiivinen": "jauhatataan",
-            "negatiivinen": "ei jauhatata"
+            "positiivinen": "jauhetaan",
+            "negatiivinen": "ei jauheta"
         }
     },
     {
         "sana": "jauhautua",
         "tarkoittaa": "to be ground",
-        "vartalo": "jauhautuu-",
+        "vartalo": "jauhautu-",
         "imperfekti": {
-            "positiivinen": "jauhautuui",
-            "negatiivinen": "ei jauhautuunut"
+            "positiivinen": "jauhautui",
+            "negatiivinen": "ei jauhautunut"
         },
         "passiivi": {
-            "positiivinen": "jauhautuutataan",
-            "negatiivinen": "ei jauhautuutata"
+            "positiivinen": "jauhaututaan",
+            "negatiivinen": "ei jauhaututa"
         }
     },
     {
         "sana": "poimia",
         "tarkoittaa": "to pick",
-        "vartalo": "poimii-",
+        "vartalo": "poimi-",
         "imperfekti": {
-            "positiivinen": "poimiii",
-            "negatiivinen": "ei poimiinut"
+            "positiivinen": "poimi",
+            "negatiivinen": "ei poiminut"
         },
         "passiivi": {
-            "positiivinen": "poimiitataan",
-            "negatiivinen": "ei poimiitata"
+            "positiivinen": "poimitaan",
+            "negatiivinen": "ei poimita"
         }
     },
     {
         "sana": "kastella",
         "tarkoittaa": "to water",
-        "vartalo": "kastelle-",
+        "vartalo": "kastella-",
         "imperfekti": {
-            "positiivinen": "kastellei",
-            "negatiivinen": "ei kastellenut"
+            "positiivinen": "kasteli",
+            "negatiivinen": "ei kastellut"
         },
         "passiivi": {
-            "positiivinen": "kastelletataan",
-            "negatiivinen": "ei kastelletata"
+            "positiivinen": "kastellaan",
+            "negatiivinen": "ei kastella"
         }
     },
     {
         "sana": "kastua",
         "tarkoittaa": "to get wet",
-        "vartalo": "kastuu-",
+        "vartalo": "kastu-",
         "imperfekti": {
-            "positiivinen": "kastuui",
-            "negatiivinen": "ei kastuunut"
+            "positiivinen": "kastui",
+            "negatiivinen": "ei kastunut"
         },
         "passiivi": {
-            "positiivinen": "kastuutataan",
-            "negatiivinen": "ei kastuutata"
+            "positiivinen": "kastutaan",
+            "negatiivinen": "ei kastuta"
         }
     },
     {
         "sana": "pudottaa",
         "tarkoittaa": "to drop",
-        "vartalo": "pudottta-",
+        "vartalo": "pudota- / pudotta-",
         "imperfekti": {
-            "positiivinen": "pudotttsi",
-            "negatiivinen": "ei pudotttanut"
+            "positiivinen": "pudotti",
+            "negatiivinen": "ei pudottanut"
         },
         "passiivi": {
-            "positiivinen": "pudotttataan",
-            "negatiivinen": "ei pudotttata"
+            "positiivinen": "pudotetaan",
+            "negatiivinen": "ei pudoteta"
         }
     },
     {
@@ -1653,352 +1653,352 @@
     {
         "sana": "pyöriä",
         "tarkoittaa": "to rotate",
-        "vartalo": "pyörii-",
+        "vartalo": "pyöri-",
         "imperfekti": {
-            "positiivinen": "pyöriii",
-            "negatiivinen": "ei pyöriinyt"
+            "positiivinen": "pyöri",
+            "negatiivinen": "ei pyörinyt"
         },
         "passiivi": {
-            "positiivinen": "pyöriitatään",
-            "negatiivinen": "ei pyöriitatä"
+            "positiivinen": "pyöritään",
+            "negatiivinen": "ei pyöritä"
         }
     },
     {
         "sana": "pyörittää",
         "tarkoittaa": "to rotate (transitive)",
-        "vartalo": "pyörittta-",
+        "vartalo": "pyöritä- / pyörittä-",
         "imperfekti": {
-            "positiivinen": "pyöritttsi",
-            "negatiivinen": "ei pyöritttanyt"
+            "positiivinen": "pyöritti",
+            "negatiivinen": "ei pyörittänyt"
         },
         "passiivi": {
-            "positiivinen": "pyöritttatään",
-            "negatiivinen": "ei pyöritttatä"
+            "positiivinen": "pyöritetään",
+            "negatiivinen": "ei pyöritetä"
         }
     },
     {
         "sana": "tulla",
         "tarkoittaa": "to come",
-        "vartalo": "tulle-",
+        "vartalo": "tule-",
         "imperfekti": {
             "positiivinen": "tuli",
             "negatiivinen": "ei tullut"
         },
         "passiivi": {
-            "positiivinen": "tulletataan",
-            "negatiivinen": "ei tulletata"
+            "positiivinen": "tullaan",
+            "negatiivinen": "ei tulla"
         }
     },
     {
         "sana": "herätä",
         "tarkoittaa": "to wake up",
-        "vartalo": "herät-",
+        "vartalo": "herää-",
         "imperfekti": {
-            "positiivinen": "heräti",
-            "negatiivinen": "ei herätnyt"
+            "positiivinen": "heräsi",
+            "negatiivinen": "ei herännyt"
         },
         "passiivi": {
-            "positiivinen": "herättatään",
-            "negatiivinen": "ei herättatä"
+            "positiivinen": "herätään",
+            "negatiivinen": "ei herätä"
         }
     },
     {
         "sana": "herättää",
         "tarkoittaa": "to wake up (transitive)",
-        "vartalo": "herättta-",
+        "vartalo": "herätä- / herättä-",
         "imperfekti": {
-            "positiivinen": "herätttsi",
-            "negatiivinen": "ei herätttanyt"
+            "positiivinen": "herätti",
+            "negatiivinen": "ei herättänyt"
         },
         "passiivi": {
-            "positiivinen": "herätttatään",
-            "negatiivinen": "ei herätttatä"
+            "positiivinen": "herätetään",
+            "negatiivinen": "ei herätetä"
         }
     },
     {
         "sana": "opettaa",
         "tarkoittaa": "to teach",
-        "vartalo": "opettta-",
+        "vartalo": "opetä- / opetta-",
         "imperfekti": {
-            "positiivinen": "opetttsi",
-            "negatiivinen": "ei opetttanut"
+            "positiivinen": "opetti",
+            "negatiivinen": "ei opettanut"
         },
         "passiivi": {
-            "positiivinen": "opetttataan",
-            "negatiivinen": "ei opetttata"
+            "positiivinen": "opetetaan",
+            "negatiivinen": "ei opeteta"
         }
     },
     {
         "sana": "loppua",
         "tarkoittaa": "to end",
-        "vartalo": "loppuu-",
+        "vartalo": "loppu-",
         "imperfekti": {
-            "positiivinen": "loppuui",
-            "negatiivinen": "ei loppuunut"
+            "positiivinen": "loppui",
+            "negatiivinen": "ei loppunut"
         },
         "passiivi": {
-            "positiivinen": "loppuutataan",
-            "negatiivinen": "ei loppuutata"
+            "positiivinen": "lopputaan",
+            "negatiivinen": "ei lopputa"
         }
     },
     {
         "sana": "lopettaa",
         "tarkoittaa": "to finish",
-        "vartalo": "lopettta-",
+        "vartalo": "lopeta- / lopetta-",
         "imperfekti": {
-            "positiivinen": "lopetttsi",
-            "negatiivinen": "ei lopetttanut"
+            "positiivinen": "lopetti",
+            "negatiivinen": "ei lopettanut"
         },
         "passiivi": {
-            "positiivinen": "lopetttataan",
-            "negatiivinen": "ei lopetttata"
+            "positiivinen": "lopetetaan",
+            "negatiivinen": "ei lopeteta"
         }
     },
     {
         "sana": "asua",
         "tarkoittaa": "to live",
-        "vartalo": "asuu-",
+        "vartalo": "asu-",
         "imperfekti": {
-            "positiivinen": "asuui",
-            "negatiivinen": "ei asuunut"
+            "positiivinen": "asui",
+            "negatiivinen": "ei asunut"
         },
         "passiivi": {
-            "positiivinen": "asuutataan",
-            "negatiivinen": "ei asuutata"
+            "positiivinen": "asutaan",
+            "negatiivinen": "ei asuta"
         }
     },
     {
         "sana": "kuolla",
         "tarkoittaa": "to die",
-        "vartalo": "kuolle-",
+        "vartalo": "kuole-",
         "imperfekti": {
             "positiivinen": "kuoli",
             "negatiivinen": "ei kuollut"
         },
         "passiivi": {
-            "positiivinen": "kuolletataan",
-            "negatiivinen": "ei kuolletata"
+            "positiivinen": "kuollaan",
+            "negatiivinen": "ei kuolla"
         }
     },
     {
         "sana": "tappaa",
         "tarkoittaa": "to kill",
-        "vartalo": "tappaa-",
+        "vartalo": "tapa- / tappa-",
         "imperfekti": {
-            "positiivinen": "tappai",
-            "negatiivinen": "ei tappaanut"
+            "positiivinen": "tappoi",
+            "negatiivinen": "ei tappanut"
         },
         "passiivi": {
-            "positiivinen": "tappatataan",
-            "negatiivinen": "ei tappatata"
+            "positiivinen": "tapetaan",
+            "negatiivinen": "ei tapeta"
         }
     },
     {
         "sana": "odottaa",
         "tarkoittaa": "to wait",
-        "vartalo": "odottta-",
+        "vartalo": "odota- / odotta-",
         "imperfekti": {
-            "positiivinen": "odotttsi",
-            "negatiivinen": "ei odotttanut"
+            "positiivinen": "odotti",
+            "negatiivinen": "ei odottanut"
         },
         "passiivi": {
-            "positiivinen": "odotttataan",
-            "negatiivinen": "ei odotttata"
+            "positiivinen": "odotetaan",
+            "negatiivinen": "ei odoteta"
         }
     },
     {
         "sana": "ajaa",
         "tarkoittaa": "to drive",
-        "vartalo": "ajaa-",
+        "vartalo": "aja-",
         "imperfekti": {
             "positiivinen": "ajo",
             "negatiivinen": "ei ajanut"
         },
         "passiivi": {
-            "positiivinen": "ajatataan",
-            "negatiivinen": "ei ajatata"
+            "positiivinen": "ajetaan",
+            "negatiivinen": "ei ajeta"
         }
     },
     {
         "sana": "lähettää",
         "tarkoittaa": "to send",
-        "vartalo": "lähettta-",
+        "vartalo": "lähetä- / lähettä-",
         "imperfekti": {
-            "positiivinen": "lähetttsi",
-            "negatiivinen": "ei lähetttanyt"
+            "positiivinen": "lähetti",
+            "negatiivinen": "ei lähettänyt"
         },
         "passiivi": {
-            "positiivinen": "lähetttatään",
-            "negatiivinen": "ei lähetttatä"
+            "positiivinen": "lähetetään",
+            "negatiivinen": "ei lähetetä"
         }
     },
     {
         "sana": "liikkua",
         "tarkoittaa": "to move",
-        "vartalo": "liikkuu-",
+        "vartalo": "liiku-",
         "imperfekti": {
-            "positiivinen": "liikkuui",
-            "negatiivinen": "ei liikkuunut"
+            "positiivinen": "liikkui",
+            "negatiivinen": "ei liikkunut"
         },
         "passiivi": {
-            "positiivinen": "liikkuutataan",
-            "negatiivinen": "ei liikkuutata"
+            "positiivinen": "liikutaan",
+            "negatiivinen": "ei liikuta"
         }
     },
     {
         "sana": "liikkuttaa",
         "tarkoittaa": "to move (transitive)",
-        "vartalo": "liikkuttta-",
+        "vartalo": "liikkuta- / liikkutta-",
         "imperfekti": {
-            "positiivinen": "liikkutttsi",
-            "negatiivinen": "ei liikkutttanut"
+            "positiivinen": "liikkutti",
+            "negatiivinen": "ei liikkuttanut"
         },
         "passiivi": {
-            "positiivinen": "liikkutttataan",
-            "negatiivinen": "ei liikkutttata"
+            "positiivinen": "liikkutetaan",
+            "negatiivinen": "ei liikkuteta"
         }
     },
     {
         "sana": "muuttaa",
         "tarkoittaa": "to change",
-        "vartalo": "muuttta-",
+        "vartalo": "muuta- / muutta-",
         "imperfekti": {
-            "positiivinen": "muutttsi",
-            "negatiivinen": "ei muutttanut"
+            "positiivinen": "muutti",
+            "negatiivinen": "ei muuttanut"
         },
         "passiivi": {
-            "positiivinen": "muutttataan",
-            "negatiivinen": "ei muutttata"
+            "positiivinen": "muutetaan",
+            "negatiivinen": "ei muuteta"
         }
     },
     {
         "sana": "muuttua",
         "tarkoittaa": "to change (intransitive)",
-        "vartalo": "muuttuu-",
+        "vartalo": "muuttu-",
         "imperfekti": {
-            "positiivinen": "muuttuui",
-            "negatiivinen": "ei muuttuunut"
+            "positiivinen": "muuttui",
+            "negatiivinen": "ei muuttunut"
         },
         "passiivi": {
-            "positiivinen": "muuttuutataan",
-            "negatiivinen": "ei muuttuutata"
+            "positiivinen": "muuttutaan",
+            "negatiivinen": "ei muuttuta"
         }
     },
     {
         "sana": "jäädä",
         "tarkoittaa": "to stay",
-        "vartalo": "jääda-",
+        "vartalo": "jä-",
         "imperfekti": {
-            "positiivinen": "jääni",
-            "negatiivinen": "ei jäädanyt"
+            "positiivinen": "jäi",
+            "negatiivinen": "ei jäänyt"
         },
         "passiivi": {
-            "positiivinen": "jäätatään",
-            "negatiivinen": "ei jäätatä"
+            "positiivinen": "jäädään",
+            "negatiivinen": "ei jäädä"
         }
     },
     {
         "sana": "siivota",
         "tarkoittaa": "to clean",
-        "vartalo": "siivot-",
+        "vartalo": "siivoa-",
         "imperfekti": {
-            "positiivinen": "siivoti",
-            "negatiivinen": "ei siivotnut"
+            "positiivinen": "siivosi",
+            "negatiivinen": "ei siivonnut"
         },
         "passiivi": {
-            "positiivinen": "siivottataan",
-            "negatiivinen": "ei siivottata"
+            "positiivinen": "siivotaan",
+            "negatiivinen": "ei siivota"
         }
     },
     {
         "sana": "liata",
         "tarkoittaa": "to dirty",
-        "vartalo": "liat-",
+        "vartalo": "liaa-",
         "imperfekti": {
-            "positiivinen": "liati",
-            "negatiivinen": "ei liatnut"
+            "positiivinen": "liasi",
+            "negatiivinen": "ei liannut"
         },
         "passiivi": {
-            "positiivinen": "liattataan",
-            "negatiivinen": "ei liattata"
+            "positiivinen": "liataan",
+            "negatiivinen": "ei liata"
         }
     },
     {
         "sana": "likaantua",
         "tarkoittaa": "to get dirty",
-        "vartalo": "likaantuu-",
+        "vartalo": "likaantu-",
         "imperfekti": {
-            "positiivinen": "likaantuui",
-            "negatiivinen": "ei likaantuunut"
+            "positiivinen": "likaantui",
+            "negatiivinen": "ei likaantunut"
         },
         "passiivi": {
-            "positiivinen": "likaantuutataan",
-            "negatiivinen": "ei likaantuutata"
+            "positiivinen": "likaantutaan",
+            "negatiivinen": "ei likaantuta"
         }
     },
     {
         "sana": "lakaista",
         "tarkoittaa": "to sweep",
-        "vartalo": "lakaist-",
+        "vartalo": "lakaisa-",
         "imperfekti": {
-            "positiivinen": "lakaisti",
-            "negatiivinen": "ei lakaistnut"
+            "positiivinen": "lakaisi",
+            "negatiivinen": "ei lakanut"
         },
         "passiivi": {
-            "positiivinen": "lakaisttataan",
-            "negatiivinen": "ei lakaisttata"
+            "positiivinen": "lakastaan",
+            "negatiivinen": "ei lakasta"
         }
     },
     {
         "sana": "valikoitua",
         "tarkoittaa": "to be selected",
-        "vartalo": "valikoituu-",
+        "vartalo": "valikoitu-",
         "imperfekti": {
-            "positiivinen": "valikoituui",
-            "negatiivinen": "ei valikoituunut"
+            "positiivinen": "valikoitui",
+            "negatiivinen": "ei valikoitunut"
         },
         "passiivi": {
-            "positiivinen": "valikoituutataan",
-            "negatiivinen": "ei valikoituutata"
+            "positiivinen": "valikoitutaan",
+            "negatiivinen": "ei valikoituta"
         }
     },
     {
         "sana": "löytää",
         "tarkoittaa": "to find",
-        "vartalo": "löytta-",
+        "vartalo": "löydä- / löytä-",
         "imperfekti": {
             "positiivinen": "löysi",
             "negatiivinen": "ei löytänyt"
         },
         "passiivi": {
-            "positiivinen": "löyttatään",
-            "negatiivinen": "ei löyttatä"
+            "positiivinen": "löydetään",
+            "negatiivinen": "ei löydetä"
         }
     },
     {
         "sana": "löytyä",
         "tarkoittaa": "to be found",
-        "vartalo": "löytyu-",
+        "vartalo": "löyty-",
         "imperfekti": {
-            "positiivinen": "löytyui",
-            "negatiivinen": "ei löytyunyt"
+            "positiivinen": "löytyi",
+            "negatiivinen": "ei löytynyt"
         },
         "passiivi": {
-            "positiivinen": "löytyutatään",
-            "negatiivinen": "ei löytyutatä"
+            "positiivinen": "löytytään",
+            "negatiivinen": "ei löytytä"
         }
     },
     {
         "sana": "kadottaa",
         "tarkoittaa": "to lose",
-        "vartalo": "kadottta-",
+        "vartalo": "kadota- / kadotta-",
         "imperfekti": {
-            "positiivinen": "kadotttsi",
-            "negatiivinen": "ei kadotttanut"
+            "positiivinen": "kadotti",
+            "negatiivinen": "ei kadottanut"
         },
         "passiivi": {
-            "positiivinen": "kadotttataan",
-            "negatiivinen": "ei kadotttata"
+            "positiivinen": "kadotetaan",
+            "negatiivinen": "ei kadoteta"
         }
     },
     {
@@ -2017,14 +2017,14 @@
     {
         "sana": "hävittää",
         "tarkoittaa": "to destroy",
-        "vartalo": "hävittta-",
+        "vartalo": "hävitä- / hävittä-",
         "imperfekti": {
-            "positiivinen": "hävitttsi",
-            "negatiivinen": "ei hävitttanyt"
+            "positiivinen": "hävitti",
+            "negatiivinen": "ei hävittänyt"
         },
         "passiivi": {
-            "positiivinen": "hävitttatään",
-            "negatiivinen": "ei hävitttatä"
+            "positiivinen": "hävitetään",
+            "negatiivinen": "ei hävitetä"
         }
     },
     {
@@ -2043,612 +2043,599 @@
     {
         "sana": "voittaa",
         "tarkoittaa": "to win",
-        "vartalo": "voittta-",
+        "vartalo": "voita- / voitta-",
         "imperfekti": {
             "positiivinen": "voitti",
             "negatiivinen": "ei voittanut"
         },
         "passiivi": {
-            "positiivinen": "voitttataan",
-            "negatiivinen": "ei voitttata"
+            "positiivinen": "voitetaan",
+            "negatiivinen": "ei voiteta"
         }
     },
     {
         "sana": "halata",
         "tarkoittaa": "to hug",
-        "vartalo": "halat-",
+        "vartalo": "halaa-",
         "imperfekti": {
-            "positiivinen": "halati",
-            "negatiivinen": "ei halatnut"
+            "positiivinen": "halasi",
+            "negatiivinen": "ei halannut"
         },
         "passiivi": {
-            "positiivinen": "halattataan",
-            "negatiivinen": "ei halattata"
+            "positiivinen": "halataan",
+            "negatiivinen": "ei halata"
         }
     },
     {
         "sana": "käydä",
         "tarkoittaa": "to visit",
-        "vartalo": "käyda-",
+        "vartalo": "käy-",
         "imperfekti": {
             "positiivinen": "kävi",
             "negatiivinen": "ei käynyt"
         },
         "passiivi": {
-            "positiivinen": "käytatään",
-            "negatiivinen": "ei käytatä"
+            "positiivinen": "käydään",
+            "negatiivinen": "ei käydä"
         }
     },
     {
         "sana": "palata",
         "tarkoittaa": "to return",
-        "vartalo": "palat-",
+        "vartalo": "palaa-",
         "imperfekti": {
-            "positiivinen": "palati",
-            "negatiivinen": "ei palatnut"
+            "positiivinen": "palasi",
+            "negatiivinen": "ei palannut"
         },
         "passiivi": {
-            "positiivinen": "palattataan",
-            "negatiivinen": "ei palattata"
+            "positiivinen": "palataan",
+            "negatiivinen": "ei palata"
         }
     },
     {
         "sana": "alkaa",
         "tarkoittaa": "to begin",
-        "vartalo": "alkaa-",
+        "vartalo": "alka-",
         "imperfekti": {
-            "positiivinen": "alkai",
-            "negatiivinen": "ei alkaanut"
+            "positiivinen": "alkoi",
+            "negatiivinen": "ei alkanut"
         },
         "passiivi": {
-            "positiivinen": "alkatataan",
-            "negatiivinen": "ei alkatata"
+            "positiivinen": "aletaan",
+            "negatiivinen": "ei aleta"
         }
     },
     {
         "sana": "aloittaa",
         "tarkoittaa": "to start",
-        "vartalo": "aloittta-",
+        "vartalo": "aloita- / aloitta-",
         "imperfekti": {
-            "positiivinen": "aloitttsi",
-            "negatiivinen": "ei aloitttanut"
+            "positiivinen": "aloitti",
+            "negatiivinen": "ei aloittanut"
         },
         "passiivi": {
-            "positiivinen": "aloitttataan",
-            "negatiivinen": "ei aloitttata"
+            "positiivinen": "aloitetaan",
+            "negatiivinen": "ei aloiteta"
         }
     },
     {
         "sana": "matkustaa",
         "tarkoittaa": "to travel",
-        "vartalo": "matkustta-",
+        "vartalo": "matkusta-",
         "imperfekti": {
-            "positiivinen": "matkusttsi",
-            "negatiivinen": "ei matkusttanut"
+            "positiivinen": "matkusti",
+            "negatiivinen": "ei matkustanut"
         },
         "passiivi": {
-            "positiivinen": "matkusttataan",
-            "negatiivinen": "ei matkusttata"
+            "positiivinen": "matkustetaan",
+            "negatiivinen": "ei matkusteta"
         }
     },
     {
         "sana": "päättää",
         "tarkoittaa": "to decide",
-        "vartalo": "päättta-",
+        "vartalo": "päätä- / päättä-",
         "imperfekti": {
             "positiivinen": "päätti",
             "negatiivinen": "ei päättänyt"
         },
         "passiivi": {
-            "positiivinen": "päätttatään",
-            "negatiivinen": "ei päätttatä"
+            "positiivinen": "päätetään",
+            "negatiivinen": "ei päätetä"
         }
     },
     {
         "sana": "päättyä",
         "tarkoittaa": "to end",
-        "vartalo": "päättyu-",
+        "vartalo": "päätty-",
         "imperfekti": {
-            "positiivinen": "päättyui",
-            "negatiivinen": "ei päättyunyt"
+            "positiivinen": "päättyi",
+            "negatiivinen": "ei päättynyt"
         },
         "passiivi": {
-            "positiivinen": "päättyutatään",
-            "negatiivinen": "ei päättyutatä"
+            "positiivinen": "päättytään",
+            "negatiivinen": "ei päättytä"
         }
     },
     {
         "sana": "tavata",
         "tarkoittaa": "to meet",
-        "vartalo": "tavat-",
+        "vartalo": "tavaa-",
         "imperfekti": {
-            "positiivinen": "tavati",
-            "negatiivinen": "ei tavatnut"
+            "positiivinen": "tavasi",
+            "negatiivinen": "ei tavannut"
         },
         "passiivi": {
-            "positiivinen": "tavattataan",
-            "negatiivinen": "ei tavattata"
+            "positiivinen": "tavataan",
+            "negatiivinen": "ei tavata"
         }
     },
     {
         "sana": "toivoa",
         "tarkoittaa": "to hope",
-        "vartalo": "toivoo-",
+        "vartalo": "toivo-",
         "imperfekti": {
-            "positiivinen": "toivooi",
-            "negatiivinen": "ei toivoonut"
+            "positiivinen": "toivoi",
+            "negatiivinen": "ei toivonut"
         },
         "passiivi": {
-            "positiivinen": "toivootataan",
-            "negatiivinen": "ei toivootata"
+            "positiivinen": "toivotaan",
+            "negatiivinen": "ei toivota"
         }
     },
     {
         "sana": "tiskata",
         "tarkoittaa": "to wash dishes",
-        "vartalo": "tiskat-",
+        "vartalo": "tiskaa-",
         "imperfekti": {
-            "positiivinen": "tiskati",
-            "negatiivinen": "ei tiskatnut"
+            "positiivinen": "tiskasi",
+            "negatiivinen": "ei tiskannut"
         },
         "passiivi": {
-            "positiivinen": "tiskattataan",
-            "negatiivinen": "ei tiskattata"
+            "positiivinen": "tiskataan",
+            "negatiivinen": "ei tiskata"
         }
     },
     {
         "sana": "imuroida",
         "tarkoittaa": "to vacuum",
-        "vartalo": "imuroida-",
+        "vartalo": "imuroi-",
         "imperfekti": {
-            "positiivinen": "imuroini",
-            "negatiivinen": "ei imuroidanut"
+            "positiivinen": "imuroi",
+            "negatiivinen": "ei imuroinut"
         },
         "passiivi": {
-            "positiivinen": "imuroitataan",
-            "negatiivinen": "ei imuroitata"
+            "positiivinen": "imuroidaan",
+            "negatiivinen": "ei imuroida"
         }
     },
     {
         "sana": "leipoa",
         "tarkoittaa": "to bake",
-        "vartalo": "leipoo-",
+        "vartalo": "leipo-",
         "imperfekti": {
-            "positiivinen": "leipooi",
-            "negatiivinen": "ei leipoonut"
+            "positiivinen": "leipoi",
+            "negatiivinen": "ei leiponut"
         },
         "passiivi": {
-            "positiivinen": "leipootataan",
-            "negatiivinen": "ei leipootata"
+            "positiivinen": "leivotaan",
+            "negatiivinen": "ei leivota"
         }
     },
     {
         "sana": "nousta",
         "tarkoittaa": "to rise",
-        "vartalo": "noust-",
+        "vartalo": "nouse-",
         "imperfekti": {
-            "positiivinen": "nousti",
-            "negatiivinen": "ei noustnut"
+            "positiivinen": "nousi",
+            "negatiivinen": "ei nousnut"
         },
         "passiivi": {
-            "positiivinen": "nousttataan",
-            "negatiivinen": "ei nousttata"
+            "positiivinen": "noustaan",
+            "negatiivinen": "ei nousta"
         }
     },
     {
         "sana": "nostaa",
         "tarkoittaa": "to lift",
-        "vartalo": "nostta-",
+        "vartalo": "nosta-",
         "imperfekti": {
-            "positiivinen": "nosttsi",
-            "negatiivinen": "ei nosttanut"
+            "positiivinen": "nosti",
+            "negatiivinen": "ei nostanut"
         },
         "passiivi": {
-            "positiivinen": "nosttataan",
-            "negatiivinen": "ei nosttata"
+            "positiivinen": "nostetaan",
+            "negatiivinen": "ei nosteta"
         }
     },
     {
         "sana": "vaihtaa",
         "tarkoittaa": "to change",
-        "vartalo": "vaihtta-",
+        "vartalo": "vaihta-",
         "imperfekti": {
-            "positiivinen": "vaihttsi",
-            "negatiivinen": "ei vaihttanut"
+            "positiivinen": "vaihtoi",
+            "negatiivinen": "ei vaihtanut"
         },
         "passiivi": {
-            "positiivinen": "vaihttataan",
-            "negatiivinen": "ei vaihttata"
+            "positiivinen": "vaihdetaan",
+            "negatiivinen": "ei vaihdeta"
         }
     },
     {
         "sana": "vaihtua",
         "tarkoittaa": "to change (intransitive)",
-        "vartalo": "vaihtuu-",
+        "vartalo": "vaihtu-",
         "imperfekti": {
-            "positiivinen": "vaihtuui",
-            "negatiivinen": "ei vaihtuunut"
+            "positiivinen": "vaihtui",
+            "negatiivinen": "ei vaihtunut"
         },
         "passiivi": {
-            "positiivinen": "vaihtuutataan",
-            "negatiivinen": "ei vaihtuutata"
+            "positiivinen": "vaihtutaan",
+            "negatiivinen": "ei vaihtuta"
         }
     },
     {
         "sana": "kertoa",
         "tarkoittaa": "to tell",
-        "vartalo": "kertoo-",
+        "vartalo": "kerto-",
         "imperfekti": {
-            "positiivinen": "kertooi",
-            "negatiivinen": "ei kertoonut"
+            "positiivinen": "kertoi",
+            "negatiivinen": "ei kertonut"
         },
         "passiivi": {
-            "positiivinen": "kertootataan",
-            "negatiivinen": "ei kertootata"
+            "positiivinen": "kerrotaan",
+            "negatiivinen": "ei kerrota"
         }
     },
     {
         "sana": "selittää",
         "tarkoittaa": "to explain",
-        "vartalo": "selittta-",
+        "vartalo": "selitä- / selittä-",
         "imperfekti": {
-            "positiivinen": "selitttsi",
-            "negatiivinen": "ei selitttanut"
+            "positiivinen": "selitti",
+            "negatiivinen": "ei selittänyt"
         },
         "passiivi": {
-            "positiivinen": "selitttataan",
-            "negatiivinen": "ei selitttata"
+            "positiivinen": "selitetään",
+            "negatiivinen": "ei selitetä"
         }
     },
     {
         "sana": "arvata",
         "tarkoittaa": "to guess",
-        "vartalo": "arvat-",
+        "vartalo": "arvaa-",
         "imperfekti": {
-            "positiivinen": "arvati",
-            "negatiivinen": "ei arvatnut"
+            "positiivinen": "arvasi",
+            "negatiivinen": "ei arvannut"
         },
         "passiivi": {
-            "positiivinen": "arvattataan",
-            "negatiivinen": "ei arvattata"
+            "positiivinen": "arvataan",
+            "negatiivinen": "ei arvata"
         }
     },
     {
         "sana": "kuvitella",
         "tarkoittaa": "to imagine",
-        "vartalo": "kuvitelle-",
+        "vartalo": "kuvitella-",
         "imperfekti": {
-            "positiivinen": "kuvitellei",
-            "negatiivinen": "ei kuvitellenut"
+            "positiivinen": "kuvitteli",
+            "negatiivinen": "ei kuvitellut"
         },
         "passiivi": {
-            "positiivinen": "kuvitelletataan",
-            "negatiivinen": "ei kuvitelletata"
+            "positiivinen": "kuvitellaan",
+            "negatiivinen": "ei kuvitella"
         }
     },
     {
         "sana": "pyöräillä",
         "tarkoittaa": "to cycle",
-        "vartalo": "pyöräille-",
+        "vartalo": "pyöräile-",
         "imperfekti": {
-            "positiivinen": "pyöräillei",
-            "negatiivinen": "ei pyöräillenyt"
+            "positiivinen": "pyöräili",
+            "negatiivinen": "ei pyöräillyt"
         },
         "passiivi": {
-            "positiivinen": "pyöräilletatään",
-            "negatiivinen": "ei pyöräilletatä"
+            "positiivinen": "pyöräillään",
+            "negatiivinen": "ei pyöräillä"
         }
     },
     {
         "sana": "lähteä",
         "tarkoittaa": "to leave",
-        "vartalo": "lähtee-",
+        "vartalo": "lähte-",
         "imperfekti": {
-            "positiivinen": "lähteei",
-            "negatiivinen": "ei lähteenyt"
+            "positiivinen": "lähti",
+            "negatiivinen": "ei lähtenyt"
         },
         "passiivi": {
-            "positiivinen": "lähteetatään",
-            "negatiivinen": "ei lähteetatä"
+            "positiivinen": "lähdetään",
+            "negatiivinen": "ei lähdetä"
         }
     },
     {
         "sana": "saapua",
         "tarkoittaa": "to arrive",
-        "vartalo": "saapuu-",
+        "vartalo": "saapu-",
         "imperfekti": {
-            "positiivinen": "saapuui",
-            "negatiivinen": "ei saapuunut"
+            "positiivinen": "saapui",
+            "negatiivinen": "ei saapunut"
         },
         "passiivi": {
-            "positiivinen": "saapuutataan",
-            "negatiivinen": "ei saapuutata"
+            "positiivinen": "saaputaan",
+            "negatiivinen": "ei saaputa"
         }
     },
     {
         "sana": "vaikuttaa",
         "tarkoittaa": "to affect",
-        "vartalo": "vaikuttta-",
+        "vartalo": "vaikuta- / vaikutta-",
         "imperfekti": {
-            "positiivinen": "vaikutttsi",
-            "negatiivinen": "ei vaikutttanut"
+            "positiivinen": "vaikutti",
+            "negatiivinen": "ei vaikuttanut"
         },
         "passiivi": {
-            "positiivinen": "vaikutttataan",
-            "negatiivinen": "ei vaikutttata"
+            "positiivinen": "vaikutetaan",
+            "negatiivinen": "ei vaikuteta"
         }
     },
     {
         "sana": "kuulostaa",
         "tarkoittaa": "to sound",
-        "vartalo": "kuulostta-",
+        "vartalo": "kuulosta-",
         "imperfekti": {
-            "positiivinen": "kuulosttsi",
-            "negatiivinen": "ei kuulosttanut"
+            "positiivinen": "kuulosti",
+            "negatiivinen": "ei kuulostanut"
         },
         "passiivi": {
-            "positiivinen": "kuulosttataan",
-            "negatiivinen": "ei kuulosttata"
+            "positiivinen": "kuulostetaan",
+            "negatiivinen": "ei kuulosteta"
         }
     },
     {
         "sana": "nauttia",
         "tarkoittaa": "to enjoy",
-        "vartalo": "nauttii-",
+        "vartalo": "nauti-",
         "imperfekti": {
-            "positiivinen": "nauttiii",
-            "negatiivinen": "ei nauttiinut"
+            "positiivinen": "nautti",
+            "negatiivinen": "ei nauttinut"
         },
         "passiivi": {
-            "positiivinen": "nauttiitataan",
-            "negatiivinen": "ei nauttiitata"
+            "positiivinen": "nautitaan",
+            "negatiivinen": "ei nautita"
         }
     },
     {
         "sana": "haistaa",
         "tarkoittaa": "to smell",
-        "vartalo": "haistta-",
+        "vartalo": "haista-",
         "imperfekti": {
-            "positiivinen": "haisttsi",
-            "negatiivinen": "ei haisttanut"
+            "positiivinen": "haisti",
+            "negatiivinen": "ei haistanut"
         },
         "passiivi": {
-            "positiivinen": "haisttataan",
-            "negatiivinen": "ei haisttata"
+            "positiivinen": "haistetaan",
+            "negatiivinen": "ei haisteta"
         }
     },
     {
         "sana": "haistua",
         "tarkoittaa": "to be smelled",
-        "vartalo": "haistuu-",
+        "vartalo": "haistu-",
         "imperfekti": {
-            "positiivinen": "haistuui",
-            "negatiivinen": "ei haistuunut"
+            "positiivinen": "haistui",
+            "negatiivinen": "ei haistunut"
         },
         "passiivi": {
-            "positiivinen": "haistuutataan",
-            "negatiivinen": "ei haistuutata"
+            "positiivinen": "haistutaan",
+            "negatiivinen": "ei haistuta"
         }
     },
     {
         "sana": "tuoksua",
         "tarkoittaa": "to smell (intransitive)",
-        "vartalo": "tuoksuu-",
+        "vartalo": "tuoksu-",
         "imperfekti": {
-            "positiivinen": "tuoksuui",
-            "negatiivinen": "ei tuoksuunut"
+            "positiivinen": "tuoksui",
+            "negatiivinen": "ei tuoksunut"
         },
         "passiivi": {
-            "positiivinen": "tuoksuutataan",
-            "negatiivinen": "ei tuoksuutata"
+            "positiivinen": "tuoksutaan",
+            "negatiivinen": "ei tuoksuta"
         }
     },
     {
         "sana": "sytyttää",
         "tarkoittaa": "to light",
-        "vartalo": "sytyttta-",
+        "vartalo": "sytytä- / sytyttä-",
         "imperfekti": {
-            "positiivinen": "sytytttsi",
-            "negatiivinen": "ei sytytttanyt"
+            "positiivinen": "sytytti",
+            "negatiivinen": "ei sytyttänyt"
         },
         "passiivi": {
-            "positiivinen": "sytytttatään",
-            "negatiivinen": "ei sytytttatä"
+            "positiivinen": "sytytetään",
+            "negatiivinen": "ei sytytetä"
         }
     },
     {
         "sana": "syttyä",
         "tarkoittaa": "to catch fire",
-        "vartalo": "syttyu-",
+        "vartalo": "sytty-",
         "imperfekti": {
-            "positiivinen": "syttyui",
-            "negatiivinen": "ei syttyunyt"
+            "positiivinen": "syttyi",
+            "negatiivinen": "ei syttynyt"
         },
         "passiivi": {
-            "positiivinen": "syttyutatään",
-            "negatiivinen": "ei syttyutatä"
+            "positiivinen": "syttytään",
+            "negatiivinen": "ei syttytä"
         }
     },
     {
         "sana": "valmistaa",
         "tarkoittaa": "to prepare",
-        "vartalo": "valmistta-",
+        "vartalo": "valmista-",
         "imperfekti": {
-            "positiivinen": "valmisttsi",
-            "negatiivinen": "ei valmisttanut"
+            "positiivinen": "valmisti",
+            "negatiivinen": "ei valmistanut"
         },
         "passiivi": {
-            "positiivinen": "valmisttataan",
-            "negatiivinen": "ei valmisttata"
+            "positiivinen": "valmistetaan",
+            "negatiivinen": "ei valmisteta"
         }
     },
     {
         "sana": "valmistautua",
         "tarkoittaa": "to prepare oneself",
-        "vartalo": "valmistautuu-",
+        "vartalo": "valmistautu-",
         "imperfekti": {
-            "positiivinen": "valmistautuui",
-            "negatiivinen": "ei valmistautuunut"
+            "positiivinen": "valmistautui",
+            "negatiivinen": "ei valmistautunut"
         },
         "passiivi": {
-            "positiivinen": "valmistautuutataan",
-            "negatiivinen": "ei valmistautuutata"
+            "positiivinen": "valmistaututaan",
+            "negatiivinen": "ei valmistaututa"
         }
     },
     {
         "sana": "valmistua",
         "tarkoittaa": "to be prepared",
-        "vartalo": "valmistuu-",
+        "vartalo": "valmistu-",
         "imperfekti": {
-            "positiivinen": "valmistuui",
-            "negatiivinen": "ei valmistuunut"
+            "positiivinen": "valmistui",
+            "negatiivinen": "ei valmistunut"
         },
         "passiivi": {
-            "positiivinen": "valmistuutataan",
-            "negatiivinen": "ei valmistuutata"
+            "positiivinen": "valmistutaan",
+            "negatiivinen": "ei valmistuta"
         }
     },
     {
         "sana": "lentää",
         "tarkoittaa": "to fly",
-        "vartalo": "lentta-",
+        "vartalo": "lennä- / lentä-",
         "imperfekti": {
             "positiivinen": "lensi",
             "negatiivinen": "ei lentänyt"
         },
         "passiivi": {
-            "positiivinen": "lenttataan",
-            "negatiivinen": "ei lenttata"
-        }
-    },
-    {
-        "sana": "lennättää",
-        "tarkoittaa": "to fly (transitive)",
-        "vartalo": "lennättta-",
-        "imperfekti": {
-            "positiivinen": "lennätttsi",
-            "negatiivinen": "ei lennätttanyt"
-        },
-        "passiivi": {
-            "positiivinen": "lennätttatään",
-            "negatiivinen": "ei lennätttatä"
+            "positiivinen": "lennetään",
+            "negatiivinen": "ei lennetä"
         }
     },
     {
         "sana": "kulkea",
         "tarkoittaa": "to go",
-        "vartalo": "kulkee-",
+        "vartalo": "kulke-",
         "imperfekti": {
             "positiivinen": "kulki",
             "negatiivinen": "ei kulkenut"
         },
         "passiivi": {
-            "positiivinen": "kulkeetataan",
-            "negatiivinen": "ei kulkeetata"
+            "positiivinen": "kuljetaan",
+            "negatiivinen": "ei kuljeta"
         }
     },
     {
         "sana": "kuljettaa",
         "tarkoittaa": "to transport",
-        "vartalo": "kuljettta-",
+        "vartalo": "kuljeta- / kuljetta-",
         "imperfekti": {
-            "positiivinen": "kuljetttsi",
-            "negatiivinen": "ei kuljetttanut"
+            "positiivinen": "kuljetti",
+            "negatiivinen": "ei kuljettanut"
         },
         "passiivi": {
-            "positiivinen": "kuljetttataan",
-            "negatiivinen": "ei kuljetttata"
+            "positiivinen": "kuljetetaan",
+            "negatiivinen": "ei kuljeteta"
         }
     },
     {
         "sana": "eksyä",
         "tarkoittaa": "to get lost",
-        "vartalo": "eksyu-",
+        "vartalo": "eksy-",
         "imperfekti": {
-            "positiivinen": "eksyui",
-            "negatiivinen": "ei eksyunyt"
+            "positiivinen": "eksyi",
+            "negatiivinen": "ei eksynyt"
         },
         "passiivi": {
-            "positiivinen": "eksyutatään",
-            "negatiivinen": "ei eksyutatä"
+            "positiivinen": "eksytään",
+            "negatiivinen": "ei eksytä"
         }
     },
     {
         "sana": "eksytää",
         "tarkoittaa": "to lose",
-        "vartalo": "eksytta-",
+        "vartalo": "eksytä-",
         "imperfekti": {
-            "positiivinen": "eksyttsi",
-            "negatiivinen": "ei eksyttanyt"
+            "positiivinen": "eksytti",
+            "negatiivinen": "ei eksyttänyt"
         },
         "passiivi": {
-            "positiivinen": "eksyttatään",
-            "negatiivinen": "ei eksyttatä"
+            "positiivinen": "eksytetään",
+            "negatiivinen": "ei eksytetä"
         }
     },
     {
         "sana": "seurata",
         "tarkoittaa": "to follow",
-        "vartalo": "seurat-",
+        "vartalo": "seuraa-",
         "imperfekti": {
-            "positiivinen": "seurati",
-            "negatiivinen": "ei seuratnut"
+            "positiivinen": "seurasi",
+            "negatiivinen": "ei seurannut"
         },
         "passiivi": {
-            "positiivinen": "seurattataan",
-            "negatiivinen": "ei seurattata"
+            "positiivinen": "seurataan",
+            "negatiivinen": "ei seurata"
         }
     },
     {
         "sana": "ohittaa",
         "tarkoittaa": "to pass",
-        "vartalo": "ohittta-",
+        "vartalo": "ohita- / ohitta-",
         "imperfekti": {
-            "positiivinen": "ohitttsi",
-            "negatiivinen": "ei ohitttanut"
+            "positiivinen": "ohitti",
+            "negatiivinen": "ei ohittanut"
         },
         "passiivi": {
-            "positiivinen": "ohitttataan",
-            "negatiivinen": "ei ohitttata"
+            "positiivinen": "ohitetaan",
+            "negatiivinen": "ei ohiteta"
         }
     },
     {
         "sana": "hakea",
         "tarkoittaa": "to fetch",
-        "vartalo": "hakee-",
+        "vartalo": "hake-",
         "imperfekti": {
             "positiivinen": "haki",
             "negatiivinen": "ei hakenut"
         },
         "passiivi": {
-            "positiivinen": "hakeetataan",
-            "negatiivinen": "ei hakeetata"
+            "positiivinen": "haetaan",
+            "negatiivinen": "ei haeta"
         }
     },
     {
         "sana": "hakeutua",
         "tarkoittaa": "to apply",
-        "vartalo": "hakeutuu-",
+        "vartalo": "hakeutu-",
         "imperfekti": {
-            "positiivinen": "hakeutuui",
-            "negatiivinen": "ei hakeutuunut"
+            "positiivinen": "hakeutui",
+            "negatiivinen": "ei hakeutunut"
         },
         "passiivi": {
-            "positiivinen": "hakeutuutataan",
-            "negatiivinen": "ei hakeutuutata"
+            "positiivinen": "hakeututaan",
+            "negatiivinen": "ei hakeututa"
         }
     },
     {
         "sana": "ansaita",
         "tarkoittaa": "to earn",
-        "vartalo": "ansait-",
+        "vartalo": "ansaitse-",
         "imperfekti": {
-            "positiivinen": "ansaiti",
-            "negatiivinen": "ei ansaitnut"
+            "positiivinen": "ansaitsee",
+            "negatiivinen": "ei ansainnut"
         },
         "passiivi": {
-            "positiivinen": "ansaittataan",
-            "negatiivinen": "ei ansaittata"
+            "positiivinen": "ansaitaan",
+            "negatiivinen": "ei ansaita"
         }
     }
 ]
