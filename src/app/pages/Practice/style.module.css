@@ -11,29 +11,37 @@
 }
 
 .container h1 {
-    font-size: 400%;
+    font-size: 250%;
     text-transform: uppercase;
 }
 
 .actionContainer {
     width: 90%;
-    height: 5vh;
+    max-width: 600px;
+    min-height: 50px;
     display: flex;
     justify-content: space-between;
+    gap: 1rem;
 }
 
 .actionContainer button {
-    width: 30%;
-    font-size: 1.2em;
+    flex: 1;
+    font-size: 1em;
     text-transform: uppercase;
     background-color: color-mix(in srgb, var(--primary-color) 70%, black 5%);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    padding: 0.75rem 0.5rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .wordContainer {
     position: relative;
     width: 90%;
-    height: 15vh;
+    max-width: 700px;
+    height: 12vh;
+    min-height: 80px;
     border: 2px solid white;
     border-radius: 5%;
     display: flex;
@@ -52,7 +60,8 @@
 .detailContainer {
     position: relative;
     width: 90%;
-    min-height: 40vh;
+    max-width: 700px;
+    min-height: 25vh;
     border: 2px solid white;
     border-radius: 5%;
     display: flex;
@@ -60,29 +69,215 @@
     justify-content: center;
     align-items: center;
     background-color: var(--primary-color);
+    padding: 0.735rem;
 }
 
 .detailContainer button {
-    width: 50%;
-    height: 50%;
+    width: 200px;
+    height: 80px;
     border: 2px solid black;
     border-radius: 50%;
-    font-size: 200%;
+    font-size: 1.5em;
     text-transform: uppercase;
+    padding: 0;
 }
 
 .detailContent {
     width: 100%;
-    padding: 10%;
+    padding: 0.49rem;
     color: black;
     font-size: 150%;
     text-align: left;
 }
 
 .detailItem {
-    margin: 10px 0;
+    margin: 0.5rem 0;
 }
 
 .detailLabel {
     font-weight: bold;
+}
+
+@media screen and (min-width: 1000px) {
+    .container h1 {
+        font-size: 280%;
+    }
+
+    .actionContainer {
+        width: 70%;
+        max-width: 700px;
+        min-height: 55px;
+    }
+
+    .actionContainer button {
+        font-size: 1.1em;
+        padding: 0.85rem 0.6rem;
+    }
+
+    .wordContainer {
+        width: 70%;
+        max-width: 800px;
+        height: 11vh;
+        min-height: 100px;
+    }
+
+    .wordContainer h2 {
+        font-size: 275%;
+    }
+
+    .detailContainer {
+        width: 70%;
+        max-width: 800px;
+        min-height: 28vh;
+        padding: 0.8575rem;
+    }
+
+    .detailContainer button {
+        width: 220px;
+        height: 90px;
+        font-size: 1.6em;
+    }
+
+    .detailContent {
+        font-size: 155%;
+        padding: 0.6125rem;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .container h1 {
+        font-size: 310%;
+    }
+
+    .actionContainer {
+        width: 65%;
+        max-width: 750px;
+        min-height: 60px;
+    }
+
+    .actionContainer button {
+        font-size: 1.2em;
+        padding: 0.9rem 0.7rem;
+    }
+
+    .wordContainer {
+        width: 65%;
+        max-width: 850px;
+        height: 10vh;
+        min-height: 120px;
+    }
+
+    .wordContainer h2 {
+        font-size: 300%;
+    }
+
+    .detailContainer {
+        width: 65%;
+        max-width: 850px;
+        min-height: 30vh;
+        padding: 0.98rem;
+    }
+
+    .detailContainer button {
+        width: 240px;
+        height: 100px;
+        font-size: 1.7em;
+    }
+
+    .detailContent {
+        font-size: 160%;
+        padding: 0.735rem;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .container h1 {
+        font-size: 340%;
+    }
+
+    .actionContainer {
+        width: 60%;
+        max-width: 800px;
+        min-height: 65px;
+    }
+
+    .actionContainer button {
+        font-size: 1.3em;
+        padding: 0.95rem 0.8rem;
+    }
+
+    .wordContainer {
+        width: 60%;
+        max-width: 900px;
+        height: 9vh;
+        min-height: 140px;
+    }
+
+    .wordContainer h2 {
+        font-size: 325%;
+    }
+
+    .detailContainer {
+        width: 60%;
+        max-width: 900px;
+        min-height: 32vh;
+        padding: 1.1025rem;
+    }
+
+    .detailContainer button {
+        width: 260px;
+        height: 110px;
+        font-size: 1.8em;
+    }
+
+    .detailContent {
+        font-size: 165%;
+        padding: 0.8575rem;
+    }
+}
+
+@media screen and (min-width: 1900px) {
+    .container h1 {
+        font-size: 370%;
+    }
+
+    .actionContainer {
+        width: 55%;
+        max-width: 850px;
+        min-height: 70px;
+    }
+
+    .actionContainer button {
+        font-size: 1.4em;
+        padding: 1rem 0.9rem;
+    }
+
+    .wordContainer {
+        width: 55%;
+        max-width: 950px;
+        height: 8vh;
+        min-height: 160px;
+    }
+
+    .wordContainer h2 {
+        font-size: 350%;
+    }
+
+    .detailContainer {
+        width: 55%;
+        max-width: 950px;
+        min-height: 34vh;
+        padding: 1.225rem;
+    }
+
+    .detailContainer button {
+        width: 280px;
+        height: 120px;
+        font-size: 1.9em;
+    }
+
+    .detailContent {
+        font-size: 170%;
+        padding: 0.98rem;
+    }
 }

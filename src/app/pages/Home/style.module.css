@@ -58,3 +58,71 @@
 .stepsList li {
     margin: 0.5rem 0;
 }
+
+@media screen and (min-width: 1000px) {
+    .container h1 {
+        font-size: 450%;
+    }
+
+    .detailContainer {
+        width: 95%;
+        padding: 8% 4%;
+    }
+
+    .detailContainer a {
+        width: 65%;
+        height: 9vh;
+        font-size: 1.85em;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .container h1 {
+        font-size: 500%;
+    }
+
+    .detailContainer {
+        width: 90%;
+        padding: 6% 3%;
+    }
+
+    .detailContainer a {
+        width: 60%;
+        height: 8vh;
+        font-size: 1.95em;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .container h1 {
+        font-size: 550%;
+    }
+
+    .detailContainer {
+        width: 85%;
+        padding: 5% 2.5%;
+    }
+
+    .detailContainer a {
+        width: 55%;
+        height: 7vh;
+        font-size: 2.05em;
+    }
+}
+
+@media screen and (min-width: 1900px) {
+    .container h1 {
+        font-size: 600%;
+    }
+
+    .detailContainer {
+        width: 80%;
+        padding: 4% 2%;
+    }
+
+    .detailContainer a {
+        width: 50%;
+        height: 6vh;
+        font-size: 2.15em;
+    }
+}

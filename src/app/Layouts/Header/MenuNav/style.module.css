@@ -18,13 +18,14 @@
     background-color: var(--secondary-color);
 }
 
-/* @media screen and (min-width: 1000px) {
+@media screen and (min-width: 1000px) {
     .menuNavPage {
         height: auto;
         margin: 0;
         padding: 0;
         display: flex;
         flex-direction: row;
+        background-color: transparent;
     }
 
     .menuNavAction {
@@ -34,4 +35,4 @@
         justify-content: end;
         background-color: transparent;
     }
-} */
+}

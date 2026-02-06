@@ -95,12 +95,12 @@ header {
 @media screen and (min-width: 1000px) {
     header {
         padding: .5rem 10rem;
-        grid-template-columns: auto 1fr auto;
-        grid-template-areas: "logo navigation buttons";
+        grid-template-columns: auto auto 1fr auto;
+        grid-template-areas: "logo navigation . buttons";
     }
 
     .headerLogo {
-        justify-self: center;
+        justify-self: start;
 
         img {
             width: auto;
@@ -110,7 +110,32 @@ header {
     }
 
     .headerNavigation {
-        justify-self: end;
+        justify-self: start;
+        width: auto;
+        margin-left: 2rem;
+    }
+
+    .headerNavigation > button {
+        display: none;
+    }
+
+    .nav {
+        position: static;
+        visibility: visible;
+        width: auto;
+        background-color: transparent;
+    }
+
+    .menuNav {
+        height: auto;
+        transform: translateX(0);
+        flex-direction: row;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    .menuNav > :last-child {
+        display: none;
     }
 
     .headerButtons {
@@ -120,18 +145,21 @@ header {
 
 @media screen and (min-width: 1300px) {
     header {
-        grid-template-columns: auto 1fr auto;
+        grid-template-columns: auto auto 1fr auto;
+        grid-template-areas: "logo navigation . buttons";
     }
 }
 
 @media screen and (min-width: 1600px) {
     header {
-        grid-template-columns: auto 1fr auto;
+        grid-template-columns: auto auto 1fr auto;
+        grid-template-areas: "logo navigation . buttons";
     }
 }
 
 @media screen and (min-width: 1900px) {
     header {
-        grid-template-columns: auto 1fr auto;
+        grid-template-columns: auto auto 1fr auto;
+        grid-template-areas: "logo navigation . buttons";
     }
 }
