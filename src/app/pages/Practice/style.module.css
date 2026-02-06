@@ -58,7 +58,7 @@
 .detailContainer {
     position: relative;
     width: 90%;
-    min-height: 50vh;
+    min-height: 30vh;
     border: 2px solid white;
     border-radius: 5%;
     display: flex;

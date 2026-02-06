@@ -2,12 +2,27 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/logo.ico" />
+    <link rel="icon" href="/flash-card/logo.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
     <meta name="description" content="Flash Card" />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="manifest" href="/flash-card/manifest.json" />
     <title>Flash Card</title>
+    <script>
+      (function() {
+        var basePath = '/flash-card';
+        var l = window.location;
+        var path = l.pathname;
+        
+        if (path.startsWith(basePath + '/') && path !== basePath + '/index.html' && path !== basePath + '/') {
+          var pathAfterBase = path.slice(basePath.length);
+          sessionStorage.setItem('redirectPath', pathAfterBase);
+          l.replace(basePath + '/index.html' + (l.search || '') + (l.hash || ''));
+        } else {
+          l.replace(basePath + '/index.html');
+        }
+      })();
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
